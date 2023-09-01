@@ -1,5 +1,4 @@
-# This is Jeopardy
- Panda library's exercise and built a Jeopardy! game
+# Jeopardy! Game using Pandas Library
 
 ## Overview
 This project involves analyzing a dataset of Jeopardy! questions and answers using the Pandas library. We filtered the dataset for topics of interest, computed the average difficulty of those questions, and trained to become the next Jeopardy champion!
